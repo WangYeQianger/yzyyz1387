@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzyyz1387&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_itnews)](https://github.com/yzyyz1387/nonebot_plugin_itnews)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_itnews)](https://github.com/yzyyz1387/nonebot_plugin_workscore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_workscore)](https://github.com/yzyyz1387/nonebot_plugin_workscore)
