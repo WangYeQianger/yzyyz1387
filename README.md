@@ -12,3 +12,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_workscore" />
 </a>
 
+
+
+
+<a href="https://github.com/yzyyz1387/nonebot_plugin_code">
+12
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugn_code" />
+13
+</a>
