@@ -18,3 +18,7 @@
 <a href="https://github.com/yzyyz1387/nonebot_plugin_code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_code" /
 </a>
+
+  <a href="https://github.com/yzyyz1387/nonebot_plugin_heisi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_heisi" /
+</a>
