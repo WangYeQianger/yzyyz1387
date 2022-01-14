@@ -23,13 +23,14 @@ I'm **幼稚园园长**
 
 
 
+<a href="https://github.com/yzyyz1387/storys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=storys" /
+</a>
 <a href="https://github.com/yzyyz1387/nonebot_plugin_admin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_admin" /
 </a>
 <a href="https://github.com/yzyyz1387/nonebot_plugin_code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_code" /
 </a>
-  <a href="https://github.com/yzyyz1387/nonebot_plugin_heisi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yzyyz1387&repo=nonebot_plugin_heisi" /
-</a>
+
 
