@@ -17,11 +17,12 @@ I'm **幼稚园园长**
 
 
 <br>
-<a href="#" style="text-align:right;">
+<a href="#" style="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzyyz1387&layout=compact">
 </a>
 
 
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 Python     4 hrs 46 mins   ██████████████████████▓░░   90.73 % 
@@ -32,8 +33,5 @@ TOML       1 min           ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!-- waka-box start -->
-
-<!-- waka-box end -->
 
 
