@@ -23,7 +23,13 @@ I'm **幼稚园园长**
 
 
 <!--START_SECTION:waka-->
-
+```text
+Python     4 hrs 46 mins   ██████████████████████▓░░   90.73 % 
+Markdown   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Env File   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Text       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- waka-box start -->
