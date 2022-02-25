@@ -9,7 +9,7 @@ I'm **幼稚园园长**
 
 - ✏ I’m currently learning: JavaScript, Fastapi
 - 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.yzyyz.top)
-- 🎮 I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) and [H
+- 🎮 I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
