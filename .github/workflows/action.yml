@@ -1,10 +1,9 @@
-name: Update stats
+name: Waka Readme
 
 on:
-  push:
-      branches: [ main ]
   schedule:
-    - cron: '0 0 * * *'
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -14,4 +13,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          Username: yzyyz1387
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: <yzyyz1387/yzyyz1387>
