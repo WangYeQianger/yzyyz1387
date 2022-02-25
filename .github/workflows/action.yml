@@ -15,4 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: yzyyz1387/yzyyz1387
+          REPOSITORY: yzyyz1387
