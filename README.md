@@ -27,7 +27,7 @@ I'm **幼稚园园长**
 <!--START_SECTION:waka-->
 
 ```text
-Other              50 mins         ████████▒░░░░░░░░░░░░░░░░   33.19 %
+Other           50 mins         ███████████▒░░░░░░░░░░░░░   45.24 %
 ```
 
 <!--END_SECTION:waka-->
