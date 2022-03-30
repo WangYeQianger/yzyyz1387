@@ -7,7 +7,7 @@
 
 I'm **幼稚园园长**
 
-- ✏ I’m currently learning:~~ JavaScript, Fastapi~~ **考研**
+- ✏ I’m currently learning:~~JavaScript, Fastapi~~ **考研**
 - 💬 Links : [My Blog](https://yzyyz.top), [Storys](https://storys.yzyyz.top)
 - 🎮 I'm currently playing [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
